@@ -13,5 +13,5 @@ of many existing processing pipelines for super-resolution reconstruction, segme
 | [fetpype](https://github.com/fetpype/fetpype/) | Main fetpype repository | ![stars](https://img.shields.io/github/stars/fetpype/fetpype) |
 | [utils_container](https://github.com/fetpype/utils_container/) | Utilities for preprocessing | ![stars](https://img.shields.io/github/stars/fetpype/utils_container)|
 | [surface_processing](https://github.com/fetpype/surface_processing) | Surface extraction pipeline | ![starts](https://img.shields.io/github/stars/fetpype/surface_processing)|
-| [spangy-get](https://github.com/fetpype/Spangy-Fet/) | SPANGY analysis (spectral analysis of surface) | ![starts](https://img.shields.io/github/stars/fetpype/Spangy-Fet)|
+| [Spangy-Fet](https://github.com/fetpype/Spangy-Fet/) | SPANGY analysis (spectral analysis of surface) | ![starts](https://img.shields.io/github/stars/fetpype/Spangy-Fet)|
 <div />
